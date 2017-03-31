@@ -1,0 +1,251 @@
+OCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Myboke</title>
+
+	<!-- load stylesheets -->
+	<link rel="stylesheet" href="http://fonts.useso.com/css?family=Open+Sans:300,400">   <!-- Google web font "Open Sans" -->
+	<link rel="stylesheet" href="../boke/css/bootstrap.min.css">                                      <!-- Bootstrap style -->
+	<link rel="stylesheet" href="../boke/css/magnific-popup.css">                                     <!-- Magnific pop up style -->
+	<link rel="stylesheet" href="../boke/css/templatemo-style.css">                                   <!-- Templatemo style -->
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+<div class="container">
+
+	<div class="tm-sidebar">
+		<img src="../boke/img/menu-top.jpg" alt="Menu top image" class="img-fluid tm-sidebar-image">
+		<nav class="tm-main-nav">
+			<ul>
+				<li class="tm-nav-item"><a href="#home" class="tm-nav-item-link">首页</a></li>
+				<li class="tm-nav-item"><a href="#about" class="tm-nav-item-link">关于</a></li>
+				<li class="tm-nav-item"><a href="#ideas" class="tm-nav-item-link">意见</a></li>
+				<li class="tm-nav-item"><a href="#contact" class="tm-nav-item-link">详情</a></li>
+			</ul>
+		</nav>
+	</div>
+
+	<div class="tm-main-content">
+
+		<section id="home" class="tm-content-box tm-banner margin-b-10">
+			<div class="tm-banner-inner">
+				<h1 class="tm-banner-title">主页</h1>
+				<p class="tm-banner-text">我的<br>主页</p>
+			</div>
+		</section>
+
+		<section>
+			<div class="tm-content-box flex-2-col">
+
+				<div class="pad flex-item tm-team-description-container">
+					<h2 class="tm-section-title">关于我</h2>
+					<p class="tm-section-description">我叫XX，来自zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
+					<p class="tm-section-description">zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
+				</div>
+				<div class="flex-item">
+					<img src="../boke/img/about.jpg" alt="">
+				</div>
+
+
+			</div>
+			<div id="about" class="tm-content-box">
+
+				<ul class="boxes gallery-container">
+					<li class="box box-bg">
+						<h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Creative</h2>
+						<img src="../boke/img/white-bg.jpg" alt="Image" class="img-fluid">
+					</li>
+					<li class="box">
+						<a href="../boke/img/idea-large-01.jpg"><img src="../boke/img/idea-01.jpg" alt="Image" class="img-fluid"></a>
+					</li>
+					<li class="box box-bg">
+						<h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Develop</h2>
+						<img src="../boke/img/white-bg.jpg" alt="Image" class="img-fluid">
+					</li>
+					<li class="box">
+						<a href="../boke/img/idea-large-02.jpg"><img src="../boke/img/idea-02.jpg" alt="Image" class="img-fluid"></a>
+					</li>
+					<li class="box box-bg">
+						<h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Design</h2>
+						<img src="../boke/img/white-bg.jpg" alt="Image" class="img-fluid">
+					</li>
+					<li class="box">
+						<a href="../boke/img/idea-large-03.jpg"><img src="../boke/img/idea-03.jpg" alt="Image" class="img-fluid"></a>
+					</li>
+					<li class="box box-bg">
+						<h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Support</h2>
+						<img src="../boke/img/white-bg.jpg" alt="Image" class="img-fluid">
+					</li>
+					<li class="box">
+						<a href="../boke/img/idea-large-04.jpg"><img src="../boke/img/idea-04.jpg" alt="Image" class="img-fluid"></a>
+					</li>
+					<li class="box box-bg">
+						<h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Think</h2>
+						<img src="../boke/img/white-bg.jpg" alt="Image" class="img-fluid">
+					</li>
+				</ul>
+
+			</div>
+
+		</section>
+
+		<!-- slider -->
+		<section id="ideas">
+			<div id="tmCarousel" class="carousel slide tm-content-box" data-ride="carousel">
+
+				<ol class="carousel-indicators">
+					<li data-target="#tmCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#tmCarousel" data-slide-to="1" class=""></li>
+					<li data-target="#tmCarousel" data-slide-to="2" class=""></li>
+				</ol>
+
+				<div class="carousel-inner" role="listbox">
+
+					<div class="carousel-item active">
+						<div class="carousel-content">
+							<div class="flex-item">
+								<h2 class="tm-section-title">意见</h2>
+								<p class="tm-section-description carousel-description">zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="carousel-item">
+						<div class="carousel-content">
+							<div class="flex-item">
+								<h2 class="tm-section-title">改变</h2>
+								<p class="tm-section-description carousel-description">zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="carousel-item">
+						<div class="carousel-content">
+							<div class="flex-item">
+								<h2 class="tm-section-title">项目</h2>
+								<p class="tm-section-description carousel-description">zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+
+		<section class="tm-content-box">
+			<img src="../boke/img/contact.jpg" alt="Contact image" class="img-fluid">
+
+			<div id="contact" class="pad">
+				<h2 class="tm-section-title">联系我们</h2>
+				<form action="#contact" method="get" class="contact-form">
+
+					<div class="form-group col-xs-12 col-sm-12 col-md-6 col-lg-6 form-group-2-col-left">
+						<input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="姓名"  required/>
+					</div>
+					<div class="form-group col-xs-12 col-sm-12 col-md-6 col-lg-6 form-group-2-col-right">
+						<input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="邮箱"  required/>
+					</div>
+					<div class="form-group">
+						<input type="text" id="contact_subject" name="contact_subject" class="form-control" placeholder="项目"  required/>
+					</div>
+					<div class="form-group">
+						<textarea id="contact_message" name="contact_message" class="form-control" rows="9" placeholder="信息" required></textarea>
+					</div>
+
+					<button type="submit" class="btn btn-primary submit-btn">提交</button>
+
+				</form>
+			</div>
+
+		</section>
+
+		<footer class="tm-footer">
+			<p class="text-xs-center">Copyright &copy; 2016.Company name All rights reserved</p>
+		</footer>
+
+	</div>
+
+</div>
+
+<!-- load JS files -->
+
+<script src="../boke/js/jquery-1.11.3.min.js"></script>
+<script src="../boke/js/bootstrap.min.js"></script>
+<script src="../boke/js/jquery.magnific-popup.min.js"></script>
+<script src="../boke/js/jquery.singlePageNav.min.js"></script>
+<script src="../boke/js/jquery.touchSwipe.min.js"></script>
+
+<!-- Templatemo scripts -->
+<script>
+
+    $(document).ready(function(){
+
+        // Single page nav
+        if($(window).width() <= 1139) {
+            $('.tm-main-nav').singlePageNav({
+                'currentClass' : "active",
+                offset : 100
+            });
+        } else {
+            $('.tm-main-nav').singlePageNav({
+                'currentClass' : "active",
+                offset : 80
+            });
+        }
+
+        // Handle nav offset upon window resize
+        $(window).resize(function(){
+            if($(window).width() <= 1139) {
+                $('.tm-main-nav').singlePageNav({
+                    'currentClass' : "active",
+                    offset : 100
+                });
+            } else {
+                $('.tm-main-nav').singlePageNav({
+                    'currentClass' : "active",
+                    offset : 80
+                });
+            }
+        });
+
+        // Magnific pop up
+        $('.gallery-container').magnificPopup({
+            delegate: 'a', // child items selector, by clicking on it popup will open
+            type: 'image',
+            gallery: {enabled:true}
+            // other options
+        });
+
+        $('.carousel').carousel({
+            interval: 3000
+        })
+
+        // Enable carousel swiping
+        $(".carousel-inner").swipe( {
+            //Generic swipe handler for all directions
+            swipeLeft:function(event, direction, distance, duration, fingerCount) {
+                $(this).parent().carousel('next');
+            },
+            swipeRight: function() {
+                $(this).parent().carousel('prev');
+            }
+        });
+
+    });
+
+</script>
+
+</body>
+</html>
